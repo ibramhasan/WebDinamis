@@ -1,5 +1,10 @@
-body{
+main  {
 	font-family: 'ZCOOL XiaoWei', serif;
+	background-size: 100% 35%;
+	background-repeat: no-repeat;
+	color: white;
+	height: 100%;
+	width: 100%;
 }
 footer {
     background-color: #1da1f2;
